@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="21.869959">
+    <testcase classname="Spotify Home Page Elements and Functionality Test" name="Validate Spotify Home Page" time="21.869959">
+        <system-out><![CDATA[Given User is on login page.................................................passed
+Then Log into Spotify Account with Valid Username and Password..............passed
+Then Click on Home Page Tab.................................................passed
+Then check for Home Page Title..............................................passed
+Then check for PlanButton...................................................passed
+Then check for Spotify Logo.................................................passed
+And user quit...............................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
